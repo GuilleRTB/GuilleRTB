@@ -30,7 +30,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/GuilleRTB/Traitement-Signal-Son-et-Image">Signal Processing</a> - Procesamiento de señales, sonoras e imágenes</td>
-        </tr>
         <td><a href="https://github.com/GuilleRTB/Sound-Classification-Beatbox">Beatbox Classification</a> - Aprendizaje automático en el campo del procesamiento de audio</td>
+        </tr>
     </table>
 </div>
