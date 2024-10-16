@@ -6,39 +6,30 @@
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>中文</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>English</span></a>|
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Español</span></a>
     </p>
     <p>🌟 Bienvenue sur mon profil GitHub !
  🌟</p>
  <p>Je suis étudiant en dernière année de Master en Intelligence Artificielle, passionné par le développement de solutions innovantes utilisant l'apprentissage automatique et le traitement des données.</p>
  <!-- Ajout des badges -->
     <p align="center">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
     </p>
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/GuilleRTB/Computer-vision-Comparison-of-MLP-and-CNN">Comparaison MLP et CNN</a> - analyse comparative de deux architectures de réseaux neuronaux</td>
-            <td><a href="https://github.com/GuilleRTB/Classification-de-son-Apprentissage-Automatique">Classification des Sons</a> - Classification des Sons à l'aide de techniques d'apprentissage supervisé et non supervisé</td>
+            <td><a href="https://github.com/GuilleRTB/Computer-vision-Comparison-of-MLP-and-CNN">MLP and CNN Comparison</a> - analyse comparative de deux architectures de réseaux neuronaux</td>
+            <td><a href="https://github.com/GuilleRTB/Classification-de-son-Apprentissage-Automatique">Sound Classification</a> - Classification des Sons à l'aide de techniques d'apprentissage supervisé et non supervisé</td>
         </tr>
         <tr>
             <td><a href="https://github.com/GuilleRTB/PLNE">PLNE</a> - Résolution de problèmes d'optimisation combinatoire,</td>
-            <td><a href="https://github.com/GuilleRTB/Machine-Learning">TP Machine learning</a> - plusieurs projets couvrant divers algorithmes et techniques de Machine Learning</td>
+            <td><a href="https://github.com/GuilleRTB/Machine-Learning">Machine Learning Projects</a> - plusieurs projets couvrant divers algorithmes et techniques de Machine Learning</td>
         </tr>
         <tr>
             <td><a href="https://github.com/GuilleRTB/Traitement-Signal-Son-et-Image">Signal processing</a> - Travaux Pratiques en traitement du signal, aux signaux sonores et aux images</td>
