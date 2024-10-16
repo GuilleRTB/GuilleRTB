@@ -24,7 +24,7 @@
     <table align="center">
         <tr>
             <td><a href="https://github.com/GuilleRTB/Computer-vision-Comparison-of-MLP-and-CNN">MLP and CNN Comparison</a> - analyse comparative de deux architectures de réseaux neuronaux</td>
-            <td><a href="https://github.com/GuilleRTB/Classification-de-son-Apprentissage-Automatique">Sound Classification</a> - Classification des Sons à l'aide de techniques d'apprentissage supervisé et non supervisé</td>
+            <td><a href="https://github.com/GuilleRTB/Classification-de-son-Apprentissage-Automatique">Sound Classification heartbeats</a> - Classification des Sons à l'aide de techniques d'apprentissage supervisé et non supervisé</td>
         </tr>
         <tr>
             <td><a href="https://github.com/GuilleRTB/PLNE">PLNE</a> - Résolution de problèmes d'optimisation combinatoire,</td>
@@ -32,6 +32,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/GuilleRTB/Traitement-Signal-Son-et-Image">Signal processing</a> - Travaux Pratiques en traitement du signal, aux signaux sonores et aux images</td>
+            <td><a href="https://github.com/GuilleRTB/Sound-Classification-Beatbox">Beatbox Classification</a> - Apprentissage automatique dans le domaine du traitement audio</td>
         </tr>
     </table>
 </div>

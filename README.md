@@ -21,7 +21,7 @@
     <table align="center">
         <tr>
             <td><a href="https://github.com/GuilleRTB/Computer-vision-Comparison-of-MLP-and-CNN">MLP and CNN Comparison</a> - comparative analysis of two neural network architectures</td>
-            <td><a href="https://github.com/GuilleRTB/Classification-de-son-Apprentissage-Automatique">Sound Classification</a> - Classifying sounds using supervised and unsupervised learning techniques</td>
+            <td><a href="https://github.com/GuilleRTB/Classification-de-son-Apprentissage-Automatique">Sound Classification heartbeats</a> - Classifying sounds using supervised and unsupervised learning techniques</td>
         </tr>
         <tr>
             <td><a href="https://github.com/GuilleRTB/PLNE">PLNE</a> - Solving combinatorial optimization problems</td>
@@ -29,6 +29,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/GuilleRTB/Traitement-Signal-Son-et-Image">Signal Processing</a> - Practical work in signal processing, sound signals, and images</td>
+            <td><a href="https://github.com/GuilleRTB/Sound-Classification-Beatbox">Beatbox Classification</a> - Machine learning in the field of audio processing</td>
         </tr>
     </table>
 </div>
