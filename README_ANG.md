@@ -6,8 +6,8 @@
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_CN.md"><span>Français</span></a>|
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Español</span></a>
+        <a href="https://github.com/GuilleRTB/GuilleRTB/blob/main/README.md"><span>Français</span></a>|
+        <a href="https://github.com/GuilleRTB/GuilleRTB/blob/main/README_ES.md"><span>Español</span></a>
     </p>
     <p>🌟 Welcome to my GitHub profile! 🌟</p>
     <p>I'm a final year Master's student in Artificial Intelligence, passionate about developing innovative solutions using machine learning and data processing.</p>
