@@ -1,10 +1,7 @@
 <div align="center">
     <h3>Salut 👋, je suis <a href="https://github.com/GuilleRTB">GuilleRTB</a></h3>
     <p align="center">
-        <a href="https://longtao.fun">
-            <img src="cat.webp" width="50"/>
-        </a>
-    </p>
+        <img src="https://avatars.githubusercontent.com/u/138145160?v=4&size=64" width="50" height="50" style="border-radius: 50%;" alt="My Profile Picture"/>    </p>
     <p align="center">
         <a href="https://github.com/GuilleRTB/GuilleRTB/blob/main/README_ANG.md"><span>English</span></a>|
         <a href="https://github.com/GuilleRTB/GuilleRTB/blob/main/README_ES.md"><span>Español</span></a>
