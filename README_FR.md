@@ -27,7 +27,7 @@
             <td><a href="https://github.com/GuilleRTB/Classification-de-son-Apprentissage-Automatique">Sound Classification heartbeats</a> - Classification des Sons à l'aide de techniques d'apprentissage supervisé et non supervisé</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/GuilleRTB/PLNE">PLNE</a> - Résolution de problèmes d'optimisation combinatoire,</td>
+            <td><a href="https://github.com/paul-sabatier-research-projects/Satellite-planning-under-uncertainty">Satellite-planning-under-uncertainty</a> - Optimisation de la planification des satellites dans des conditions incertaines à l'aide de SCIP et ZIMPL</td>
             <td><a href="https://github.com/GuilleRTB/Machine-Learning">Machine Learning Projects</a> - plusieurs projets couvrant divers algorithmes et techniques de Machine Learning</td>
         </tr>
         <tr>
@@ -35,7 +35,7 @@
             <td><a href="https://github.com/GuilleRTB/Sound-Classification-Beatbox">Beatbox Classification</a> - Apprentissage automatique dans le domaine du traitement audio</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/paul-sabatier-research-projects/Satellite-planning-under-uncertainty">Satellite-planning-under-uncertainty</a> - Optimisation de la planification des satellites dans des conditions incertaines à l'aide de SCIP et ZIMPL</td>
+            <td><a href="https://github.com/GuilleRTB/PLNE">PLNE</a> - Résolution de problèmes d'optimisation combinatoire,</td>
         </tr>
     </table>
 </div>
