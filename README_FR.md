@@ -34,5 +34,8 @@
             <td><a href="https://github.com/GuilleRTB/Traitement-Signal-Son-et-Image">Signal processing</a> - Travaux Pratiques en traitement du signal, aux signaux sonores et aux images</td>
             <td><a href="https://github.com/GuilleRTB/Sound-Classification-Beatbox">Beatbox Classification</a> - Apprentissage automatique dans le domaine du traitement audio</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/paul-sabatier-research-projects/Satellite-planning-under-uncertainty">Satellite-planning-under-uncertainty</a> - Optimisation de la planification des satellites dans des conditions incertaines à l'aide de SCIP et ZIMPL</td>
+        </tr>
     </table>
 </div>

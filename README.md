@@ -31,5 +31,8 @@
             <td><a href="https://github.com/GuilleRTB/Traitement-Signal-Son-et-Image">Signal Processing</a> - Practical work in signal processing, sound signals, and images</td>
             <td><a href="https://github.com/GuilleRTB/Sound-Classification-Beatbox">Beatbox Classification</a> - Machine learning in the field of audio processing</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/paul-sabatier-research-projects/Satellite-planning-under-uncertainty">Satellite-planning-under-uncertainty</a> - Optimizing satellite planning under uncertain conditions using SCIP and ZIMPL</td>
+        </tr>
     </table>
 </div>
