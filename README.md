@@ -30,6 +30,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/GuilleRTB/PLNE">PLNE</a> - Solving combinatorial optimization problems</td>
+            <td><a href="https://github.com/paul-sabatier-research-projects/DiffPIR-restoration">DiffPIR</a> - A plug-and-play super-resolution framework using diffusion-based denoising and an analytical solution for image restoration</td>
         </tr>
     </table>
 </div>
