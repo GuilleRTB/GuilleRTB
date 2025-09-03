@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello 👋, I'm <a href="https://github.com/GuilleRTB">GuilleRTB</a>!</h1>
+    <h1>Hello 👋, I'm <a href="https://github.com/GuilleRTB">Guilhem</a>!</h1>
         <a href="https://github.com/GuilleRTB/GuilleRTB/blob/main/README_FR.md"><span>Français</span></a>|
         <a href="https://github.com/GuilleRTB/GuilleRTB/blob/main/README_ES.md"><span>Español</span></a>
     </p>
